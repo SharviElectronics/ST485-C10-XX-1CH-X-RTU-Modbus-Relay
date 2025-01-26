@@ -9,4 +9,4 @@ https://sharvielectronics.com/product-category/development-boards/sharvi_technol
 ![image](https://github.com/user-attachments/assets/db689f7b-2b8b-4caa-86b9-eb9b4d7bda40)
 
 
-![image]https://sharvielectronics.b-cdn.net/wp-content/uploads/2023/03/ST485-C10-05-4CH-B-5-To-24V-4-Channel-Relay-Module-With-Modbus-RTU-RS485TTL.jpg)
+![image](https://sharvielectronics.b-cdn.net/wp-content/uploads/2023/03/ST485-C10-05-4CH-B-5-To-24V-4-Channel-Relay-Module-With-Modbus-RTU-RS485TTL.jpg)
